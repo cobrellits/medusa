@@ -8,7 +8,7 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa
+  us.bsqstore.com
 </h1>
 
 <h4 align="center">
