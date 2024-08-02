@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://us.bsqstore.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg](https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg](https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
-    <img alt="BSQ logo" src="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg](https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
+    <img alt="BSQ logo" src="https://github.com/cobrellits/medusa/blob/a9b008501b8fd2924a0b1f467fb5e245c858fb79/www/apps/book/public/images/bsq-logo.svg">
     </picture>
   </a>
 </p>
